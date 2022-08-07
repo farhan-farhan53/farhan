@@ -1,0 +1,48 @@
+/*title sectin*/
+#title-section {
+    text-align: center;
+    background-color: #256D85;
+    font-family: "Montserrat";
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+
+}
+.navbar-brand {
+    font-weight: bold;
+}
+/*id section*/
+#id {
+    text-align: center;
+    background-color: #002B5B;
+    color: #fff;
+    padding-bottom: 0;
+    margin-top: 3.5rem;
+
+}
+.profile-picture {
+    border-radius: 50%;
+    padding: 5%;
+}
+#id p {
+    padding: 5% 15%;
+    font-family: "montserrat";
+    margin-bottom: 0;
+}
+/*copyright section*/
+#copyright {
+    text-align: center;
+    background-color: #256D85;
+    width: 100%;
+    color: #fff;
+    font-family: serif;
+    font-weight: lighter;
+    font-size: 0.5rem;
+}
+#copyright p {
+    padding: 1rem;
+}
+.social {
+    font-size: 1rem;
+}
